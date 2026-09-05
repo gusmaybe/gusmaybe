@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href="https://x.com/0xgusY">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
 </a>
 </div>
 
@@ -28,4 +28,3 @@
   <img src="https://skillicons.dev/icons?i=linux,js,html,css,py,c,nodejs,react,flask,django,aws,"/>
  
 </div>
-
