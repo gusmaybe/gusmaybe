@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-<a href="https://x.com/0xgusY">
+<a href="https://x.com/0xgusmaybe">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
 </a>
 </div>
